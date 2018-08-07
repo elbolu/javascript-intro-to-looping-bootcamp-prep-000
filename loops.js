@@ -1,5 +1,4 @@
-function forLoop (var i = 0; i < 25; i++) {
-    array.push("I am a strange loop.")
+function forLoop(let i = 0; i < 25; i++) {
     return [array, i]
   }
 
