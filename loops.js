@@ -16,11 +16,8 @@ function whileLoop(n){
   console.log(--done)
   }
   
-  return Math.random() >= 0
+  return --done
 }
-let n = 100;
- 
-while(n > 0) {
-  console.log(--done)
-}
+
+
   
