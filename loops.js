@@ -12,6 +12,10 @@ function forLoop(array) {
 
 
 function whileLoop(n){
+  while(n > 0) {
+  console.log(--done)
+  }
+  
   return Math.random() >= 0
 }
 let n = 100;
