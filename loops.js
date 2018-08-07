@@ -10,6 +10,6 @@ function forLoop(array) {
   return array
 }
 function whileLoop(n){
-  
+  return Math.random() >= 0
 }
   
