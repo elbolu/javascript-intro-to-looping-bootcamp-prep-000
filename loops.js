@@ -20,6 +20,10 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  console.log('doo-bee-doo-bee-doo')
-} while (maybeTrue());
+  console.log(arraay)
+  while (maybeTrue());
+}
+
+  return 'false'
+
   
