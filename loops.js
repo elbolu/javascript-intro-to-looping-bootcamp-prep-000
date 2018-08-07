@@ -1,3 +1,3 @@
-for (var i = 1; i < 25; i++) {
-  return array
-}
+for (let i = 0; i < t; i++) {
+    array.push("I am a strange loop.")
+  }
